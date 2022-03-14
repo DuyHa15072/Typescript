@@ -6,12 +6,9 @@ var name = " Le Trong Dat";
 var age = 20;
 var status = true;
 var info = {};
-var info = {};
-var info = {};
 var stringArr = ["a", "b", "c"];
 var numberArr = [1, 2, 3, 4];
 var objectArr = [{ id: 1 }, { id: 2 }];
-var adc = name;
 function sum(numA, numB) {
     return numA + numB;
 }
